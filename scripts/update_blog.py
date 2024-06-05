@@ -2,7 +2,6 @@ import feedparser
 import git
 import os
 
-# 벨로그 RSS 피드 URL
 rss_url = 'https://api.velog.io/rss/@hamjw0122'
 
 repo_path = '.'
