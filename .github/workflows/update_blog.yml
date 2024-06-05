@@ -1,4 +1,4 @@
-name: Update Velog
+name: Update Velog Post
 
 on:
   push:
